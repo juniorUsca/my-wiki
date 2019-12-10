@@ -1,8 +1,8 @@
 ---
-title: Untitled Page
+title: Simples y rapidos
 description: 
 published: true
-date: 2019-12-10T17:24:29.326Z
+date: 2019-12-10T17:26:09.031Z
 tags: 
 ---
 
