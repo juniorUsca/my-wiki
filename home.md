@@ -2,9 +2,9 @@
 title: Inicio
 description: 
 published: true
-date: 2019-12-10T15:59:51.725Z
+date: 2019-12-10T16:59:27.808Z
 tags: 
 ---
 
-# Header
-Your content here
+# Junior Usca Huacasi
+Aqui colocare todos los trabajos propios que estoy realizando, junto a las lecciones aprendidas a modo de blog
