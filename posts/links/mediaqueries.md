@@ -2,7 +2,7 @@
 title: Media queries - tamaños
 description: 
 published: true
-date: 2019-12-10T17:09:33.667Z
+date: 2019-12-10T17:12:00.849Z
 tags: media query
 ---
 
