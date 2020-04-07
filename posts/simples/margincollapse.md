@@ -1,9 +1,9 @@
 ---
-title: CSS: Margin Collapse
+title: CSS: Tips and trices
 description: 
 published: true
-date: 2020-04-07T19:58:12.752Z
-tags: margin, css
+date: 2020-04-07T19:58:51.669Z
+tags: margin, css, overflow
 ---
 
 # Css: Tips and tricks
