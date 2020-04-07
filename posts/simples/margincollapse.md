@@ -2,11 +2,13 @@
 title: CSS: Margin Collapse
 description: 
 published: true
-date: 2020-04-07T19:44:02.879Z
+date: 2020-04-07T19:58:12.752Z
 tags: margin, css
 ---
 
-# Css: Margin Collapse
+# Css: Tips and tricks
+
+## Margin Collapse
 
 El margin collapse se da cuando 2 margenes estan cercanos.
 
@@ -18,3 +20,8 @@ Los margenes **no aplican collapse** cuando:
 - overflow: hidden; or
 - overflow: scroll;
 ```
+
+## Overflow
+
+Use `overflow: scroll` to show a scrollbar in the box
+Use `overflow: auto` to show a scrollbar only if it is necesary
