@@ -2,7 +2,7 @@
 title: Simples y rapidos
 description: 
 published: true
-date: 2020-04-07T09:12:05.837Z
+date: 2020-04-07T09:13:50.797Z
 tags: 
 ---
 
@@ -15,4 +15,6 @@ La lista de posts:
 React:
  - [useContextRerender](/posts/simples/useContextRerender)
  - [useEffectComparation](/posts/simples/useEffectComparation)
- 
+
+Css:
+ - [MarginCollapse]
