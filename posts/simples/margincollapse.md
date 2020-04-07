@@ -2,7 +2,7 @@
 title: CSS: Margin Collapse
 description: 
 published: true
-date: 2020-04-07T19:43:13.407Z
+date: 2020-04-07T19:44:02.879Z
 tags: margin, css
 ---
 
