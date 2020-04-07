@@ -2,12 +2,12 @@
 title: Simples y rapidos
 description: 
 published: true
-date: 2019-12-10T17:29:29.971Z
+date: 2020-04-07T09:10:39.967Z
 tags: 
 ---
 
 # Posts Simples y Rapidos
 
 La lista de posts:
- - [Tamaños de Media Queries](/posts/simples/mediaqueries)
  - [Presentaciones en Deckdeckgo](/posts/simples/deckdeckgo)
+ - [SystemDesignPrimer](/posts/simples/systemdesignprimer)
