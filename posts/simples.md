@@ -2,7 +2,7 @@
 title: Simples y rapidos
 description: 
 published: true
-date: 2020-04-07T19:39:08.690Z
+date: 2020-04-07T19:59:22.684Z
 tags: 
 ---
 
@@ -17,4 +17,4 @@ React:
  - [useEffectComparation](/posts/simples/useEffectComparation)
 
 Css:
- - [MarginCollapse](/posts/simples/margincollapse)
+ - [Tips And Tricks](/posts/simples/tipsandtricks)
