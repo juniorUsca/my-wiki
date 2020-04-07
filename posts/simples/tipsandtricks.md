@@ -2,7 +2,7 @@
 title: CSS: Tips and trices
 description: 
 published: true
-date: 2020-04-07T19:58:51.669Z
+date: 2020-04-07T20:21:29.413Z
 tags: margin, css, overflow
 ---
 
@@ -11,6 +11,7 @@ tags: margin, css, overflow
 ## Margin Collapse
 
 El margin collapse se da cuando 2 margenes estan cercanos.
+Solo se **aplican en vertical(top, bottom)**, no en horizontal (left, right)
 
 Los margenes **no aplican collapse** cuando:
  - El padre tiene uno de las siguientes configuraciones:
