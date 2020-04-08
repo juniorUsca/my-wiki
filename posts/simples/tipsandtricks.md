@@ -2,7 +2,7 @@
 title: CSS: Tips and trices
 description: 
 published: true
-date: 2020-04-08T04:12:06.058Z
+date: 2020-04-08T04:16:32.863Z
 tags: margin, css, overflow
 ---
 
@@ -40,7 +40,7 @@ Alinea el texto cercano respecto al elemento seleccionado
 	vertical-align: top | middle | bottom
 ```
 
-Por ejemplo se aplica a la etiqueta `img` y el texto se pondra top, middle o bottom.
+Por ejemplo se aplica a la etiqueta `img` y el texto se pondra top, middle o bottom, siempre y cuando haya un contenedor 2 niveles superior con `display:flex`.
 ```html
 <p>Curso de Desarrollo web online 2018 <img src="image"></p>
 ```
