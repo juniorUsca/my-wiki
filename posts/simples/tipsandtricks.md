@@ -2,7 +2,7 @@
 title: CSS: Tips and trices
 description: 
 published: true
-date: 2020-04-08T03:48:51.265Z
+date: 2020-04-08T04:12:06.058Z
 tags: margin, css, overflow
 ---
 
@@ -31,3 +31,16 @@ By default use `overflow: visible`
 
 Use `overflow: scroll` to show a scrollbar in the box
 Use `overflow: auto` to show a scrollbar only if it is necesary
+
+## Vertical align
+
+Alinea el texto cercano respecto al elemento seleccionado
+
+```css
+	vertical-align: top | middle | bottom
+```
+
+Por ejemplo se aplica a la etiqueta `img` y el texto se pondra top, middle o bottom.
+```html
+<p>Curso de Desarrollo web online 2018 <img src="image"></p>
+```
